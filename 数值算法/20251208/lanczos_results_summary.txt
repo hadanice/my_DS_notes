@@ -1,0 +1,9 @@
+true_λ = 1000.0
+MGS2: basis cols = 200, max ortho violation = 4.718447854656915e-16
+Standard: basis cols = 200, max ortho violation = 1.6811136989425268e-08
+MGS2: eig_err length = 200, vec_err length = 200, ortho_hist length = 200
+Standard: eig_err length = 200, vec_err length = 200, ortho_hist length = 200
+final eigenvalue error MGS2 = 0.0
+final eigenvalue error Standard = 0.0
+slope (log-log) MGS2 = 1.005282553931235
+slope (log-log) Standard = 1.0010119525047276
